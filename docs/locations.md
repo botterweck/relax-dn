@@ -40,5 +40,7 @@ McNabb lecture theatre
 Entrance from Campus at [https://maps.app.goo.gl/gx7EyQscPbiDwT9VA](https://maps.app.goo.gl/gx7EyQscPbiDwT9VA)
 Enrtance from Pearse St at [https://maps.app.goo.gl/3qk7Gkj5Mh6AfmP27](https://maps.app.goo.gl/3qk7Gkj5Mh6AfmP27)
 
-
-    
+## Golf
+Rainforest Adventure Golf, 
+Unit 6, Dundrum South Dundrum Town Centre, Dundrum, Co. Dublin
+[https://maps.app.goo.gl/FSFxQYdoaYPf4y7z9](https://maps.app.goo.gl/FSFxQYdoaYPf4y7z9)
