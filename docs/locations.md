@@ -27,9 +27,10 @@ Dining Hall, Trinity College Dublin
 Kennedy's Pub and Restaurant, 30 Westland Row, Dublin 2, D02 DP70
 [https://maps.app.goo.gl/bbtbw6BV3wJ2Vrxi7](https://maps.app.goo.gl/bbtbw6BV3wJ2Vrxi7)
 
+![Map](images/kennedys.png)
+
 ## Res
-Restaurant (To be confirmed)
-Yamamori South City
+Restaurant Yamamori South City
 72 South Great George's Street, Dublin, D02 EC94
 [https://maps.app.goo.gl/AcXAYbRkvBVMSSAn7](https://maps.app.goo.gl/AcXAYbRkvBVMSSAn7)
 
@@ -38,7 +39,12 @@ Trinity Business School,
 McNabb lecture theatre
 [https://maps.app.goo.gl/mryTwUUjex4wAjos6](https://maps.app.goo.gl/mryTwUUjex4wAjos6)https://maps.app.goo.gl/mryTwUUjex4wAjos6
 Entrance from Campus at [https://maps.app.goo.gl/gx7EyQscPbiDwT9VA](https://maps.app.goo.gl/gx7EyQscPbiDwT9VA)
-Enrtance from Pearse St at [https://maps.app.goo.gl/3qk7Gkj5Mh6AfmP27](https://maps.app.goo.gl/3qk7Gkj5Mh6AfmP27)
+Entrance from Pearse St at [https://maps.app.goo.gl/3qk7Gkj5Mh6AfmP27](https://maps.app.goo.gl/3qk7Gkj5Mh6AfmP27)
+
+## BK
+Trinity Trails and Book of Kells Experience
+We will leave from O'Reilly Foyer at about 15:15 together, the tour starts Thursday 15:30 at the Campanile (Bell Tower) of Trinity College Dublin.
+[https://maps.app.goo.gl/UjAHQWmXaPybor659](https://maps.app.goo.gl/UjAHQWmXaPybor659)
 
 ## Golf
 Rainforest Adventure Golf, 
