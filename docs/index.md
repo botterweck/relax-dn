@@ -1,5 +1,7 @@
 # Agenda
 
+You can join remotely via [Zoom meeting](https://us06web.zoom.us/j/86118030102?pwd=ejWwfhLbPYDaMaIQ6Q8srYA7UqDI1i.1) (host will have to let you in).
+
 <style id="agenda_21117_Styles">
 <!--table
 	{mso-displayed-decimal-separator:"\.";
