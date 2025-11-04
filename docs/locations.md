@@ -41,6 +41,9 @@ McNabb lecture theatre
 Entrance from Campus at [https://maps.app.goo.gl/gx7EyQscPbiDwT9VA](https://maps.app.goo.gl/gx7EyQscPbiDwT9VA)
 Entrance from Pearse St at [https://maps.app.goo.gl/3qk7Gkj5Mh6AfmP27](https://maps.app.goo.gl/3qk7Gkj5Mh6AfmP27)
 
+Inaugural lecture of John Kelleher, registration required at [https://forms.office.com/e/ENuxx95eZj](https://forms.office.com/e/ENuxx95eZj).
+
+
 ## BK
 Trinity Trails and Book of Kells Experience
 We will leave from O'Reilly Foyer at about 15:15 together, the tour starts Thursday 15:30 at the Campanile (Bell Tower) of Trinity College Dublin.
